@@ -34,7 +34,7 @@ mvn clean test
 
 ### Run the sample `main` method
 ```bash
-mvn clean compile exec:java -Dexec.mainClass="hu.webstar.Main"
+java -jar HumanReadableDurationFormat-1.0-SNAPSHOT.jar 
 ```
 
 ## Project Structure
